@@ -12,7 +12,13 @@ Your output will be Tag number of the winner (Integer).
 
 
 If running in command line:
-  E:\>java Solution.java
+
+
+  E:\>
+      java Solution.java
+  
       number of people :11
+      
       time duration of the song in seconds :4
+      
       Winner's Tag number : 9
